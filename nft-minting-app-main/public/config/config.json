@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2e6266bebb0e2316993936e57d611777e9ed1de3",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2e6266bebb0e2316993936e57d611777e9ed1de3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MetaRealEstateClub",
+  "SYMBOL": "MRECNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 300,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea Collection",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metarealestateclub",
+  "SHOW_BACKGROUND": true
+}
